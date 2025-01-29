@@ -1,27 +1,27 @@
 {
   "options": {
     "error": {
-      "temperature_not_found": "Temperatuursensor niet gevonden",
-      "humidity_not_found": "Luchtvochtigheidssensor niet gevonden"
+      "temperature_not_found": "Temperatursensor konnte nicht gefunden werden",
+      "humidity_not_found": "Feuchtigkeitssensor konnte nicht gefunden werden"
     },
     "step": {
       "init": {
-        "title": "Instellingen Thermal comfort",
+        "title": "Thermal Comfort Einstellungen",
         "data": {
           "temperature_sensor": "Temperatuursensor",
-          "humidity_sensor": "Luchtvochtigheidssensor",
-          "poll": "Inschakelen polling",
+          "humidity_sensor": "Feuchtigkeitssensor",
+          "poll": "Polling verwenden",
           "scan_interval": "Poll interval (seconden)",
-          "custom_icons": "Gebruikerspecifieke iconen"
+          "custom_icons": "Benutzerdefinierte Icons verwenden"
         }
       }
     }
   },
   "config": {
     "abort": {
-      "already_configured": "Deze combinatie van temperatuur- en luchtvochtigheidssensoren is al geconfigureerd",
-      "no_sensors": "Geen temperatuur- of luchtvochtigheidssensoren gevonden. Probeer opnieuw in geadvanceerde modus.",
-      "no_sensors_advanced": "Geen temperatuur- of luchtvochtigheidssensoren gevonden."
+      "already_configured": "Diese Kombination aus Temperatur- und Feuchtigkeitssensor wird bereits verwendet",
+      "no_sensors": "Es wurden entweder keine Temperatur- oder Feuchtigkeitssensoren gefunden. Versuche es im erweiterten Modus erneut.",
+      "no_sensors_advanced": "Es wurden entweder keine Temperatur- oder Feuchtigkeitssensoren gefunden."
     },
     "error": {
       "temperature_not_found": "Temperatuursensor niet gevonden",
@@ -130,9 +130,9 @@
         "name": "Temperatuurindex volgens Simmer"
       },
       "summer_simmer_perception": {
-        "name": "Temperatuurbeleving volgens Simmer (zomer)",
+        "name": "Sommer Wärme Wahrnehmung",
         "state": {
-          "cool": "Koel",
+          "cool": "Kühl",
           "slightly_cool": "Enigszins koel",
           "comfortable": "Comfortabel",
           "slightly_warm": "Enigszins warm",

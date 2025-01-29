@@ -130,7 +130,7 @@
         "name": "Summer Simmer Index"
       },
       "summer_simmer_perception": {
-        "name": "Sommer Simmer gefühlt",
+        "name": "Sommer Wärme Wahrnehmung",
         "state": {
           "cool": "Kühl",
           "slightly_cool": "Etwas kühl",
