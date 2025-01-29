@@ -144,7 +144,7 @@
         }
       },
       "thoms_discomfort_perception": {
-        "name": "Thoms Discomfort gefühlt",
+        "name": "Unbehaglichkeitsgefühl",
         "state": {
           "no_discomfort": "Kein Unbehagen",
           "less_than_half": "Weniger als die Hälfte der Bevölkerung fühlt sich unwohl",
